@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SourashisB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, Spring Web & Bootstrap in Java
+- 👀 I’m interested in FinTech, RegTech, Full Stack Development
+- 🌱 I’m currently learning JavaScript, ReactJS, AWS, Spring Web & Bootstrap in Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sourashis99@gmail.com
 
